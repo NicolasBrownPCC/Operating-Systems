@@ -5,3 +5,7 @@ The Command Line Interface is the interface navigated by the keyboard and typing
 
 Another operating system function is managing programs. The operating system has to be able to manage all the programs and apps you have on your computer. 
 It also has to manage the processes that come with these apps and programs. It allows the user to be able to use an app while having others running in the background.
+
+
+A 3rd operating system function is managing the memory. The operating system has to process and figure out where to send the data. Running an app takes RAM and so when you launch the app
+the operating system sends that data to RAM so it can run. If the RAM is full the operating system sends it to a swap file.  
